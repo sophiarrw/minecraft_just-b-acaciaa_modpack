@@ -9,3 +9,5 @@ This modpack includes the following (per the name):
 - Iris (optional)
 - Arsnuvo
 - Ad Astra
+
+Currently runs on version 1.20.1 of Minecraft.
